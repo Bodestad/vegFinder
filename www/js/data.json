@@ -1,0 +1,69 @@
+{
+  "restaurants": [
+    {
+      "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "shortname": "the_red_fern",
+      "name": "The Red Fern",
+      "reknown": "All vegan",
+        "lat": 43.149755,
+        "long": -77.586548,
+        "hours": "Mo - Fri: 10am - 9pm Sat: 11am - 19pm Sun: Closed"
+    },{
+      "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "shortname": "the_owl_house",
+      "name": "The Owl House",
+      "reknown": "Vegan options",
+        "lat": 43.150181,
+        "long": -77.600987,
+        "hours": "Mo - Fri: 10am - 9pm Sat: 11am - 19pm Sun: Closed"
+    },{
+      "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "shortname": "voulas",
+      "name": "Voula's Greek Sweets",
+      "reknown": "Vegan options",
+        "lat": 43.147353,
+        "long": -77.595384,
+        "hours": "Mo - Fri: 10am - 9pm Sat: 11am - 19pm Sun: Closed"
+    },{
+      "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "shortname": "tap_and_mallet",
+      "name": "Tap and Mallet",
+      "reknown": "Vegan options",
+        "lat": 43.142981,
+        "long": -77.601740,
+        "hours": "Mo - Fri: 10am - 9pm Sat: 11am - 19pm Sun: Closed"
+    },{
+      "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "shortname": "dogtown",
+      "name": "Dogtown",
+      "reknown": "Vegan options",
+        "lat": 43.143841,
+        "long": -77.589734,
+        "hours": "Mo - Fri: 10am - 9pm Sat: 11am - 19pm Sun: Closed"
+    },{
+      "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "shortname": "sol_burrito",
+      "name": "Sol Burrito",
+      "reknown": "Vegan options",
+        "lat": 43.146279,
+        "long": -77.593496,
+        "hours": "Mo - Fri: 10am - 9pm Sat: 11am - 19pm Sun: Closed"
+    },{
+      "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "shortname": "vive",
+      "name": "Vive Bistro and Bakery",
+      "reknown": "Vegan options",
+        "lat": 43.156825,
+        "long": -77.600366,
+        "hours": "Mo - Fri: 10am - 9pm Sat: 11am - 19pm Sun: Closed"
+    },{
+      "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "shortname": "pi_craft",
+      "name": "Pi Craft Pizza",
+      "reknown": "Vegan options",
+        "lat": 43.085924,
+        "long": -77.623090,
+        "hours": "Mo - Fri: 10am - 9pm Sat: 11am - 19pm Sun: Closed"
+    }
+  ]
+}

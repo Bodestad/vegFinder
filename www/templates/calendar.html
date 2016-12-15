@@ -1,0 +1,12 @@
+<ion-view view-title="Favorites">
+  <ion-content>
+  <ion-list>
+  <ion-item ng-repeat="f in fav" class="item item-avatar" href="#/tab/fav/{{f.item.shortname}}">
+      <img ng-src="img/{{f.item.shortname}}.jpg"
+        alt="{{ f.item.name }} Photo">
+  <p>{{f.item.name}}</p>
+  </ion-item>
+  </ion-list>
+   
+  </ion-content>
+</ion-view>
